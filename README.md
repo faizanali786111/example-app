@@ -1,4 +1,4 @@
 # example-app
 This is my first git project
 <br>
-Author - Faizan Ali
+Author - Faizan Ali Kazi
